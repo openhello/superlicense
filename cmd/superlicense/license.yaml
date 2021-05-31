@@ -1,0 +1,13 @@
+license:
+  id: "id"
+  parent_id: "parent_id"
+  mcode: "mcode"
+  user: "user"
+  product: "product"
+  category: "category"
+  features:
+    - code: "num"
+      content: "1"
+      type: "int"
+  signed_at: "2021-05-19 13:56:00"
+  expired_at: "2022-05-19 13:56:00"
